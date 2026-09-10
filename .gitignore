@@ -19,6 +19,8 @@
 
 # production
 /build
+/docs
+/.opencode
 
 # misc
 .DS_Store
@@ -35,6 +37,9 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# local media storage
+/media
 
 # typescript
 *.tsbuildinfo

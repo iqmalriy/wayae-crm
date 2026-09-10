@@ -1,0 +1,1 @@
+ALTER TABLE "contact_interactions" ALTER COLUMN "wa_account_id" DROP NOT NULL;

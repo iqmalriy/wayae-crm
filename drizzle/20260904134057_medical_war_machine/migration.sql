@@ -1,0 +1,1 @@
+ALTER TABLE "conversation_reads" DROP COLUMN "unread_count";

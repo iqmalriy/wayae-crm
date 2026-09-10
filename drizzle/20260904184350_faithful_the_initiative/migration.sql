@@ -1,0 +1,1 @@
+ALTER TABLE "leads" ALTER COLUMN "estimated_value" SET DATA TYPE double precision USING "estimated_value"::double precision;

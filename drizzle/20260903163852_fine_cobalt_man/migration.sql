@@ -1,0 +1,1 @@
+ALTER TABLE "contact_phone_reveal_log" ADD COLUMN "reason" text;

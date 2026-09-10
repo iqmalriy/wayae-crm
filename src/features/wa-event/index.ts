@@ -1,0 +1,1 @@
+export { eventsHandler } from "./api/events.handler";

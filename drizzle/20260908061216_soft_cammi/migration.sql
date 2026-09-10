@@ -1,0 +1,1 @@
+ALTER TABLE "messages" ADD CONSTRAINT "messages_media_id_media_media_id_fkey" FOREIGN KEY ("media_id") REFERENCES "media"("media_id") ON DELETE SET NULL;
